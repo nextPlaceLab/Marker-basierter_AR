@@ -68,6 +68,16 @@ hervorgerufen haben. Zur Gewährleistung einer reibungslosen Funktion
 zukünftiger, eigens entwickelter Applikationen wurde daher hieraus der Rückschluss
 gezogen, dass die internen Tablets des Living-Labs ein bessere Nutzererfahrung liefern
 können.
+Die Marker-basierte Umsetzung hatte den Vorteil, dass die Teilnehmenden keine
+Schwierigkeiten hatten, die QR-Codes zu finden und als solche zu identifizieren, weil
+viele mit dem Prinzip des Scannens solcher Marker vertraut waren. Als Nachteil dieser
+Methode konnte jedoch beobachtet werden, dass die Teilnehmenden sich sehr
+nah an den QR-Codes aufhalten mussten um diese ständig mit der Kamera filmen zu
+können. Die daraus resultierende Instabilität der Projektion, sowie die zwangsläufig
+kleine Darstellung der Videos als Hologramm auf einem Smartphonedisplay, hat die
+Qualität der Nutzer:innenerfahrung bzw. die Wahrnehmung der Videos für einige
+Teilnehmer:innen gemindert. Aus diesem Grund wurden für zukünftige Feldtests andere
+Projektionstechnologien bzw. Tracking-Verfahren für Hologramme vorgesehen.
 
 ![Diagram Use Case 2](https://livinglab-essigfabrik.ids-research.de/wp-content/uploads/2022/06/Flowcharts-fuer-Publikation-2.2.-Stadtrundgang-ueberlagert-mit-Videoinhalten-mit-Hilfe-von-Marker-basierten-AR.jpg)
 
